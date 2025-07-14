@@ -1,4 +1,4 @@
-# suray-marag-pandit-
+# Suray-Marag-Pandit-
 🛠️ I'm currently working on: Android apps<br><br>🤝 I'm looking to collaborate with: Tech-savvy people<br><br>📚 I'm currently learning: Android development<br><br>🎉 Fun fact: I love laptops<br><br>
 
 
