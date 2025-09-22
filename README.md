@@ -1,21 +1,116 @@
-# Suray-Marag-Pandit
-🛠️ I'm currently working on: Android apps<br><br>🤝 I'm looking to collaborate with: Tech-savvy people<br><br>📚 I'm currently learning: Android development<br><br>🎉 Fun fact: I love laptops<br><br>
+# 🌟 **Suray Marag Pandit**
 
+> *Android Developer | Software Engineer | Problem Solver*
 
-## 🌐 Socials:
- [![suraymaragpandit@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suraymaragpandit@gmail.com)[Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@suraymaragpandit)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suray-marag-pandit) [![![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Argumented_Thinker)[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/spider_68789) 
+I’m an **inquisitive and motivated developer** passionate about **building impactful, user-focused mobile applications**.
+With a strong foundation in **Kotlin, Jetpack Compose, and Clean Architecture**, I strive to create **scalable, high-quality apps** that make a real-world impact.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=suray-marag-pandit&theme=dark&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suray-marag-pandit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=suray-marag-pandit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+* 🛠️ **Currently Working On:** Advanced Android apps with Jetpack Compose + MVVM + Clean Architecture
+* 🤝 **Looking to Collaborate With:** Tech-savvy developers and teams solving meaningful problems
+* 📚 **Currently Learning:** Backend development with **Ktor**, **SQLDelight**, and **Firebase optimizations**
+* 🏆 **Recent Achievement:** Built a full-featured chat app with real-time updates and scalable architecture
+* 🎉 **Fun Fact:** I can spend hours perfecting UI animations and micro-interactions ✨
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suray-marag-pandit&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 **Connect With Me**
+
+<p align="center">
+  <a href="mailto:suraymaragpandit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/suray-marag-pandit">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@suraymaragpandit">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://reddit.com/user/Argumented_Thinker">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+  <a href="https://discord.gg/spider_68789">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+---
+
+## 💻 **Tech Stack**
+
+### **Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+### **Android Development**
+
+<p>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM-FF5722?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Room-00897B?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Retrofit-3F6EAB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Work%20Manager-4CAF50?style=for-the-badge"/>
+</p>
+
+### **Tools & Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ktor-000000?style=for-the-badge&logo=ktor&logoColor=white"/>
+</p>
+
+---
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=suray-marag-pandit&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suray-marag-pandit&show_icons=true&theme=dark&hide_border=false&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suray-marag-pandit&theme=dark&hide_border=false&layout=compact"/>
+</p>
+
+---
+
+## 🏆 **Achievements**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suray-marag-pandit&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+## 👀 **Profile Visitors**
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=suray-marag-pandit&icon=0&color=3" alt="Profile Views"/>
+  </a>
+</p>
+
+---
+
+## ✨ **Why Work With Me**
+
+* 💡 Strong foundation in **Android development** and modern app architecture
+* ⚡ Experience in building **real-world scalable apps** from scratch
+* 🤝 Team player with **excellent collaboration skills**
+* 🌱 Always learning and **staying up-to-date** with new technologies
+
+> *"The best way to predict the future is to create it." – Alan Kay*
+
+---
