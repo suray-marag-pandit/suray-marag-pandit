@@ -1,7 +1,3 @@
-Here’s an updated version of your README where I’ve **replaced the "Profile Visitors" section** with a **dynamic GitHub activity graph**, which looks cleaner and provides more value to viewers. It will showcase your coding activity visually instead of just a visitor counter.
-
----
-
 # 🌟 **Suray Marag Pandit**
 
 > *Android Developer | Software Engineer | Problem Solver*
@@ -99,16 +95,6 @@ With a strong foundation in **Kotlin, Jetpack Compose, and Clean Architecture**,
 
 ---
 
-## 📈 **GitHub Activity Graph**
-
-<p align="center">
-  <a href="https://github.com/suray-marag-pandit">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=suray-marag-pandit&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-  </a>
-</p>
-
----
-
 ## ✨ **Why Work With Me**
 
 * 💡 Strong foundation in **Android development** and modern app architecture
@@ -119,10 +105,3 @@ With a strong foundation in **Kotlin, Jetpack Compose, and Clean Architecture**,
 > *"The best way to predict the future is to create it." – Alan Kay*
 
 ---
-
-### ✅ Changes Made:
-
-* **Removed** the non-working *Profile Visitors* badge.
-* **Added a dynamic GitHub Activity Graph** that shows your contribution history.
-* Updated design for a **modern and visually appealing look**.
-* Everything now focuses on your **coding activity and achievements**, making your profile more professional.
