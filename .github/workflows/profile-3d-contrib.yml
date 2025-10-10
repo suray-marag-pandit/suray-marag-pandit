@@ -1,0 +1,22 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  # This will run the action every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # This allows you to run the action manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: suray-marag-pandit
+          theme_name: 'night-green'
+          out_dir: 'profile-3d-contrib'
+          file_name: 'profile-night-green.svg'
